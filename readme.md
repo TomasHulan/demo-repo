@@ -1,2 +1,2 @@
 #Nadpis
-Nejaký text.
+Nejaký text!
