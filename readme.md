@@ -1,3 +1,4 @@
+theme: minima
 #Nadpis
 Nejaký text!
 
